@@ -1,0 +1,2 @@
+# pruebatecnicadatascience
+PRUEBA TÉCNICA PARA TEAM DE BOOTCAMP DE DATA SCIENCE E IA
